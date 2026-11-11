@@ -1,0 +1,65 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Nazia",
+      "department": "Software Engineering",
+      "university": "University of Dhaka",
+      "semester": 3,
+      "cgpa": 3.8
+    },
+    {
+      "id": 2,
+      "name": "Rahim",
+      "department": "Computer Science",
+      "university": "University of Dhaka",
+      "semester": 4,
+      "cgpa": 3.75
+    },
+    {
+      "id": 3,
+      "name": "Karim",
+      "department": "Electrical Engineering",
+      "university": "BUET",
+      "semester": 5,
+      "cgpa": 3.9
+    },
+    {
+      "id": 4,
+      "name": "Ayesha",
+      "department": "Software Engineering",
+      "university": "University of Dhaka",
+      "semester": 2,
+      "cgpa": 3.65
+    },
+    {
+      "id": 5,
+      "name": "Tanvir",
+      "department": "Computer Science",
+      "university": "BRAC University",
+      "semester": 6,
+      "cgpa": 3.85
+    },
+    {
+      "id": 6
+    },
+    {
+      "name": "Sadia",
+      "department": "Software Engineering",
+      "university": "University of Dhaka",
+      "semester": 3,
+      "cgpa": 3.85,
+      "id": 7
+    },
+    {
+      "name": "Rahim Ahmed",
+      "studentId": "230701",
+      "department": "Software Engineering",
+      "university": "University of Dhaka",
+      "semester": 5,
+      "email": "rahim@example.com",
+      "cgpa": 3.85,
+      "id": 8
+    }
+  ]
+}
